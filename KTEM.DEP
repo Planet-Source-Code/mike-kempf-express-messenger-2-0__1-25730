@@ -1,0 +1,29 @@
+[Version]
+Version=2.0.0.0
+
+[KTEM.exe <0009>]
+Dest=$(AppPath)
+Date=8/30/2001
+Time=08:53
+Version=2.0.0.0
+CABFilename=KTEM.CAB
+CABINFFile=KTEM.INF
+Uses1=MSVBVM60.DLL
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=MSWORD.OLB
+Uses8=MSCOMCTL.ocx
+Uses9=MSWINSCK.OCX
+Uses10=Richtx32.ocx
+Uses11=Comdlg32.ocx
+Uses12=MSCOMCT2.ocx
+Uses13=TABCTL32.OCX
+
+[MSWORD.OLB <0009>]
+Dest=$(WinSysPath)
+Date=2/19/2001
+Time=21:12
+Version=10.0.2619.0

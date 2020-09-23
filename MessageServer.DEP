@@ -1,0 +1,20 @@
+[Version]
+Version=1.0.0.0
+
+[MessageServer.exe <0009>]
+Dest=$(AppPath)
+Date=05/14/2001
+Time=08:07
+Version=1.0.0.0
+CABFilename=MessageServer.CAB
+CABINFFile=MessageServer.INF
+Uses1=MSVBVM60.DLL
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=MSWINSCK.OCX
+Uses8=RICHTX32.OCX
+Uses9=mscomctl.ocx
+Uses10=COMDLG32.OCX

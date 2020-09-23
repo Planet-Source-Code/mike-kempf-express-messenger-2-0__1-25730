@@ -1,0 +1,10 @@
+frmReadMessage = 93, 125, 938, 736, C, 0, 0, 0, 0, C
+frmSendMessage = 126, 60, 903, 636, C, 0, 0, 0, 0, C
+frmOptions = 85, 119, 875, 694, C, 0, 0, 0, 0, C
+modMessageServer = 15, 106, 856, 681, C
+modSystemTray = 0, 0, 0, 0, C
+frmLogViewer = 27, 109, 717, 685, C, 0, 0, 0, 0, C
+frmAbout = 195, 117, 642, 693, C, 0, 0, 0, 0, C
+modBrowseForFolder = 35, 129, 482, 679, CZ
+cRegistry = 35, 129, 482, 679, C
+frmSpellCheck = 152, 129, 599, 679, C, 0, 0, 0, 0, C
