@@ -1,0 +1,8 @@
+EMTicket
+Set-schema: HPD:HelpDesknuprd3.nu.com
+Query: 1=$TICKET$
+Form-open: 
+Form-entry-list: 0
+Form-final: modify@
+end
+Macro to open a Ticket Number through Express Messenger
